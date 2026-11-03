@@ -1,0 +1,6 @@
+{
+  "name": "Loan Application & Google Sheets Hub",
+  "description": "Submit loan applications with automatic synchronization and logging to Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
